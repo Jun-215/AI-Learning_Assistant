@@ -255,7 +255,6 @@ A: 建议使用虚拟环境，并确保Python和Node.js版本符合要求。
 如有问题或建议，请通过以下方式联系：
 
 - 提交 [Issue](https://github.com/yourusername/AI-Learning_Assistant/issues)
-- 发送邮件至: <your.email@example.com>
 
 ---
 

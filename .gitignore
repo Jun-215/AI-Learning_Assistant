@@ -47,6 +47,19 @@ pids
 *.seed
 *.pid.lock
 
+# Test files and directories
+test_scripts/
+*test*.py
+*test*.bat
+test_*.py
+*_test.py
+tests/
+__tests__/
+*.test.js
+*.test.ts
+*.spec.js
+*.spec.ts
+
 # IDE / Editor specific files
 .vscode/
 .idea/
